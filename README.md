@@ -45,19 +45,33 @@ AI-Based Cloud Intrusion Detection System (IDS) is a real-time cybersecurity mon
 ## Project Architecture
 
 Network Traffic
+
 ↓
+
 Packet Sniffer
+
 ↓
+
 Feature Extraction
+
 ↓
+
 Machine Learning Detection
+
 ↓
+
 Threat Analysis Engine
+
 ↓
+
 MongoDB Database
+
 ↓
+
 FastAPI APIs
+
 ↓
+
 React Dashboard
 
 ---
